@@ -1,0 +1,61 @@
+
+.titulo {
+  color: #292a2c;
+  font-family: lato;
+  font-size: 1.8rem;
+  padding: auto;
+  margin-top: 190px;
+  margin-left: 80px;
+}
+.epigrafe {
+  font-family: lato;
+  color: #292a2c;
+  margin-left: 80px;
+  font-size: 1.4 rem;
+}
+.img {
+  border: solid #292a2c; 
+  width: 18.3rem;
+  height: 23rem;
+  position: absolute;
+  margin-left: 60%;
+  margin-top: -330px;
+  padding: 1%;
+}
+.link {
+
+  color: #292a2c;
+  font-size: 1.8rem;
+  position: relative;
+  margin-right: 30px;
+}
+.linkspack{
+margin-left: 80px;
+}
+.foto {
+  position: sticky;
+  width: 20rem;
+  margin-top: -55px;
+  margin-left: -26px;
+}
+
+.blue {
+  color: #0082C6;
+  text-decoration: none;
+  
+}
+.line{
+  border: solid #292a2c;
+  margin-top: 60px;
+  margin-left: 5.5%;
+  margin-right: 8%;
+}
+
+@media (max-width: 888px) {
+  .img {
+   display: none;
+  }
+  .foto{
+  display: none;
+  }
+  }
