@@ -41,10 +41,10 @@ margin-bottom: 0px;
 .img {
   border: solid #292a2c; 
   width: 18.3rem;
-  height: 23rem;
+  height: 25rem;
   position: absolute;
   margin-left: 60%;
-  margin-top: -330px;
+  margin-top: -360px;
   padding: 1%;
 }
 .link {
@@ -60,7 +60,7 @@ margin-bottom: 0px;
 .foto {
   position: sticky;
   width: 20rem;
-  margin-top: -55px;
+  margin-top: -27px;
   margin-left: -26px;
 }
 
