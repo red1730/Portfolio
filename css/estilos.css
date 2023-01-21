@@ -75,7 +75,7 @@ margin-bottom: 0px;
   color: black;
 }
 .line{
-  border: solid #292a2c;
+  border: solid 1.5px #292a2c;
   margin-top: 60px;
   margin-left: 5.5%;
   margin-right: 8%;
@@ -83,9 +83,27 @@ margin-bottom: 0px;
 
 @media (max-width: 888px) {
   .img {
-   display: none;
+    margin-left: 46px;
+    margin-top: 168px;
+  
   }
   .foto{
-  display: none;
+    margin-top: -27px;
+    margin-left: -26px;
   }
+  .titulo {
+    margin-left: 50px;
+    margin-top: 100px;
+  }
+  .epigrafe {
+    margin-left: 50px;
+  }
+  .linkspack{
+    margin-left: 50px;
+  }
+  .line {
+    margin-left: 50px;
+    border: solid 1px #292a2c;
+  }
+  
   }
